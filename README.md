@@ -1,2 +1,3 @@
-# IBM-Project-33396-1660219605
+# smart fashion recommender
+fashion app
 
